@@ -1,0 +1,8 @@
+{
+  "name": "tweet",
+  "devDependencies": {
+  },
+  "dependencies": {
+    "waterline": "^0.10.12"
+  }
+}

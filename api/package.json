@@ -1,0 +1,23 @@
+{
+  "name": "Tweet",
+  "version": "0.0.1",
+  "main": "app.js",
+  "dependencies": {
+    "env-config-loader": "git+https://bitbucket.org/tsyganov/env-config-loader.git",
+    "errorhandler": "^1.1.1",
+    "express": "4.x",
+    "express-router": "git+https://bitbucket.org/tsyganov/express-router.git",
+    "mongodb": "*",
+    "morgan": "^1.2.2",
+    "ntwitter": "^0.5.0",
+    "request": "*",
+    "socket.io": "^1.2.0",
+    "swig": "*",
+    "underscore": "latest",
+    "util": "^0.10.3",
+    "when": "latest",
+    "wire": "latest"
+  },
+  "author": "Isa Bek",
+  "devDependencies": {}
+}
